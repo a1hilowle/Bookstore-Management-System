@@ -1,8 +1,9 @@
 # Bookstore Management System
 
+A JavaFX-based bookstore management application with role-based access for owners and customers.  
+Features include login authentication, book/customer management, and dynamic transaction handling.  
+Implemented the State Design Pattern to manage customer membership status (Gold/Silver).  
 
-A GUI-based bookstore management system built with **Java, JavaFX, and OOP principles**.  
-The system provides **role-based access** for owners and customers, with features such as authentication, book/customer management, and membership status handling.  
 
 ## 🚀 Features
 - **Role-based access** for Owner and Customer users.  
