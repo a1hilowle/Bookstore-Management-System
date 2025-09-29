@@ -1,5 +1,6 @@
 # Bookstore Management System
 
+
 A GUI-based bookstore management system built with **Java, JavaFX, and OOP principles**.  
 The system provides **role-based access** for owners and customers, with features such as authentication, book/customer management, and membership status handling.  
 
